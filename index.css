@@ -1,6 +1,6 @@
 div {
-    width: 200px;
-    height: 200px;
+    width: 100px;
+    height: 100px;
     border: 1px solid red;
     border-radius: 2px solid purple;
 }
